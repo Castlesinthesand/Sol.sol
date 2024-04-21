@@ -1,0 +1,41 @@
+{
+  "object": "list",
+  "data": [
+    {
+      "organization_id": "org-VeRiUqmLZUeJDiMjtEaFHHYs",
+      "organization_name": "Personal",
+      "operation": "completion",
+      "n_context_tokens_total": 2875,
+      "n_generated_tokens_total": 1123,
+      "api_key_id": "key_uU8JWqV8UieOKpzF",
+      "api_key_name": "123",
+      "api_key_redacted": "sk-...Ig2",
+      "api_key_type": "organization",
+      "project_id": "Default Project",
+      "project_name": "Default Project",
+      "usage_type": "text",
+      "model": "gpt-3.5-turbo-16k-0613",
+      "timestamp": 1713657600,
+      "user": "doinitforthecati@gmail.com",
+      "num_requests": 5
+    },
+    {
+      "organization_id": "org-VeRiUqmLZUeJDiMjtEaFHHYs",
+      "organization_name": "Personal",
+      "operation": "completion",
+      "n_context_tokens_total": 38050,
+      "n_generated_tokens_total": 792,
+      "api_key_id": "key_KDNJOOL2rfGUwuav",
+      "api_key_name": "aaaaaa",
+      "api_key_redacted": "sk-...Grt",
+      "api_key_type": "user",
+      "project_id": "Default Project",
+      "project_name": "Default Project",
+      "usage_type": "text",
+      "model": "gpt-3.5-turbo-16k-0613",
+      "timestamp": 1713657600,
+      "user": "doinitforthecati@gmail.com",
+      "num_requests": 3
+    }
+  ]
+}
